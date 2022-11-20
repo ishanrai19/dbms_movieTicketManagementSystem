@@ -66,7 +66,7 @@
     <div class="headingg">
       <h3>Welcome to our Ticket Booking System</h3>
     </div>
-    <form action="login.php" method="post">
+    <form action="index.html" method="post">
       <div class="formmm">
         <div class="form-items">
           <label for="email">Email</label><br />
